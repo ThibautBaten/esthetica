@@ -257,8 +257,8 @@ button {
 
 .arrow-indicator {
   position: absolute;
-  top:150px; /* boven het rad */
-  left: 110%;
+  top:90px; /* boven het rad */
+  left: 100%;
   transform: translateX(-40%);
   font-size: 40px;
   color: black;
